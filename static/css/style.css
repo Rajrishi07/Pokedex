@@ -1,0 +1,16 @@
+ body{
+ background-image: url('../images/bg.jpg');
+ background-size: cover;
+ }
+
+ h1{
+    color: white;
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Titan One', sans-serif;
+    margin: 2% 0% 1% 0%;
+}
+
+form{
+    text-align: center;
+}

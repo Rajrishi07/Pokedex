@@ -1,0 +1,19 @@
+ body{
+ background-image: url('../images/POKEMON/bg.jpeg');
+ background-size: cover;
+ }
+
+  h1{
+    color: white;
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Titan One', sans-serif;
+    margin: 2% 0% 1% 0%;
+}
+
+.img-fluid{
+    position: fixed;
+  right: 30%;
+  size: 20rem;
+  border: 3px solid #73AD21;
+}
